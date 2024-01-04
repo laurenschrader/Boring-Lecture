@@ -1,0 +1,16 @@
+p.intro {
+  font-style: italic;
+}
+
+h2.intro {
+  color: blueviolet
+}
+
+img {
+  width: 400px;
+  height: auto;
+}
+
+#pink {
+  color: pink;
+}
