@@ -2,13 +2,14 @@ p.intro {
   font-style: italic;
 }
 
-h2.intro {
+.intro {
   color: blueviolet
 }
 
 img {
   width: 400px;
   height: auto;
+  float: right;
 }
 
 #pink {
